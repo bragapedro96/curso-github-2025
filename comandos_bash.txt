@@ -5,3 +5,4 @@ cd ..-> Volta uma pasta acima
 ls -a -> Mostra arquivos ocultos
 cat -> Mostra o que tem dentro de um arquivo
 rm -> Remove arquivo do diretório
+rm -rf -> Remove de forma recursiva e forçada todos os diretórios
