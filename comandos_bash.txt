@@ -1,0 +1,6 @@
+ls -> Lista arquivos
+cd -> Move entre diretórios
+pwd -> Mostra o diretório de trabalho
+cd ..-> Volta uma pasta acima
+ls -a -> Mostra arquivos ocultos
+cat -> Mostra o que tem dentro de um arquivo
