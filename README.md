@@ -8,6 +8,8 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 
 Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Code Studio.
 
+Abaixo, temos alguns fluxos de trabalho com diretrizes de como se trabalhar localmente e via cloud com Git
+
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova-branch>
